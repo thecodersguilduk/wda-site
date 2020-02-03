@@ -1,3 +1,11 @@
 [build]
     publish = "public/"
     command = "npm run build"
+
+[[redirects]]
+      from = "/test"
+      to = "/"
+
+
+      from = "/test2"
+      to = "/"
