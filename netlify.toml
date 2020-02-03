@@ -6,6 +6,6 @@
       from = "/test"
       to = "/"
 
-
+[[redirects]]
       from = "/test2"
       to = "/"
