@@ -1,0 +1,10 @@
+# Redirects from what the browser requests to what we serve
+/apply.html                   /apply
+/application-form.html        /application-form
+/contact.html                 /contact
+levy.webdevapprentice.uk      /
+sme.webdevapprentice.uk      /
+london.webdevapprentice.uk      /
+leeds.webdevapprentice.uk      /
+london.levy.webdevapprentice.uk      /
+leeds.levy.webdevapprentice.uk      /

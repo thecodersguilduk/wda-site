@@ -1,3 +1,9 @@
 [build]
     publish = "public/"
     command = "npm run build"
+
+[[redirects]]
+      from = "levy.webdevapprentice.uk"
+      to = "/"
+      status = 301
+      force = false
