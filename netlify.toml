@@ -7,5 +7,5 @@
       to = "/"
 
 [[redirects]]
-      from = "/test2"
+      from = "test.webdevapprentice.uk"
       to = "/"
